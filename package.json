@@ -1,0 +1,25 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augtt/DOE_SANGUE_maratonadev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Augtt/DOE_SANGUE_maratonadev/issues"
+  },
+  "homepage": "https://github.com/Augtt/DOE_SANGUE_maratonadev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  }
+}
